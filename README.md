@@ -1,1 +1,2 @@
-# tech-prep-coding
+# Technical Prep Coding Challenges
+
