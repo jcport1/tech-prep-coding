@@ -6,6 +6,9 @@ class Solution:
         # keep track of longest prefix
         res = []
         
+        # time complexity: O(m * n) where m is the len of outer string and n is num of strs in array
+        # space complexity: O(m) where m is the length of common prefix
+        
         # we only need to check str a against str b and str c, because by transitive property
         # if b = a, and c = a, then b = c
 
