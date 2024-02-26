@@ -7,6 +7,7 @@ class Solution:
         """
 
         # time complexity = O(n)
+        # space complexity = O(1), using constant extra memory with variables l,r, and mid
 
         # two pointers: l, r
         l, r = 0, len(s)-1
